@@ -6,10 +6,14 @@ This project compares two machine learning models for classifying the FashionMNI
 
 ## File Structure
 
-FashionMNIST-MLP-vs-CNN/
+FashionMNIST-MLP-vs-CNN
+
 ├── MLP_for_FashionMNIST_ReLU_He_Adam.ipynb
+
 ├── FashionMNIST_CNN.ipynb
+
 ├── README.md
+
 └── FashionMNIST_dataset.jpg
 
 - `MLP for FashionMNIST_ReLU_He_Adam.ipynb`: The MLP model code.
